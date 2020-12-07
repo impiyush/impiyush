@@ -10,12 +10,14 @@ I have completed various online courses including the Deep Learning Specializati
 
 I have a Masters in Computer Science from the University of North Carolina at Greensboro. In my leisure time, you can find me hiking, camping, reading, running or playing ping pong.
 
+Also checkout my [blog](https://blog.impiyush.com)
+
 ---
 
 - 🔭 I’m currently working on: another cool project
 - 🌱 I’m currently learning: NLP and Recommenders
 - 👯 I’m looking to collaborate on: machine learning or python related projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/impiyushag/) | [Twitter](https://www.twitter.com/impiyushag) | [Medium](https://medium.com/@impiyush)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/impiyushag/) | [Twitter](https://www.twitter.com/impiyushag)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been skydiving and bungee jumping. Which one do you think I would like doing again?
 
