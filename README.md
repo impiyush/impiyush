@@ -12,11 +12,11 @@ Checkout my [blog](https://blog.impiyush.com)
 
 ---
 
-- 🔭 I’m currently working on: building robust document classification models;
-- 🌱 I’m currently learning: NLP with Transformers;
-- 👯 I’m looking to collaborate on: machine learning or python related projects;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/impiyushag/) | [Twitter](https://www.twitter.com/impiyushag);
+- 🔭 Currently working on: building robust document classification models;
+- 🌱 Currently learning: NLP with Transformers;
+- 👯 Looking to collaborate on: machine learning or python related projects;
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/impiyushag/) | [Twitter](https://www.twitter.com/impiyushag);
 - 😄 Pronouns: He/Him;
-- ⚡ Fun fact: I have been skydiving and bungee jumping. Which one do you think I would like to do again? 🤔
+- ⚡ Fun fact: I have been skydiving and bungee jumping. Which one you think is more scary? 🤔
 
 ---
