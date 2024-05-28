@@ -1,6 +1,4 @@
 # About Me
-#### Machine Learning | Generative AI | Leadership | Blogger | NLP | CV 👨‍💻
----
 
 I am an extraverted, curious, thorough, and highly organized individual with experience in data science, building machine learning models, and deploying end-to-end machine learning pipelines. I have over a decade of experience working in the field of AI/ML and I am currently working as a Sr. Machine Learning Engineer at NIKE.
 
